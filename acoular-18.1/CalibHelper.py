@@ -11,7 +11,7 @@ m = MicGeom(from_file=path.join( path.split(acoular.__file__)[0],'xml','array92x
 m.configure_traits()
 ti.configure_traits()
 ti.numsamples = int(ti.sample_freq/10.0)
-
+yjhtfhgkjf
 nc = ti.numchannels
 #~ nc = 64
 if nc != m.num_mics:
