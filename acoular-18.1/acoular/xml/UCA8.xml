@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MicArray name="UCA8">
+    <pos Name="M1" x="-0.0485" y="-0.0201" z="0"/>
+    <pos Name="M2" x="-0.0201" y="-0.0485" z="0"/>
+    <pos Name="M3" x="0.0201"  y="-0.0485" z="0"/>
+    <pos Name="M4" x="0.0485"  y="-0.0201" z="0"/>
+    <pos Name="M5" x="0.0485"  y="0.0201" z="0"/>
+    <pos Name="M6" x="0.0201"  y="0.0485" z="0"/>
+    <pos Name="M7" x="-0.0201" y="0.0485" z="0"/>
+    <pos Name="M8" x="-0.0485" y="0.0201" z="0"/>
+</MicArray>

@@ -1,0 +1,113 @@
+scenario: 01100-00000-00000-0
+target: 000001_0.wav
+bips: B1 fast 0.43% 97879_1.wav; B2 fast 0.34% 205951.wav;
+voices:
+interfering_cries:
+background: 
+
+start
+B2 3964 begin
+B2 11388 end
+B1 12929 begin
+B1 23501 end
+B2 27389 begin
+B2 34813 end
+B1 39502 begin
+B1 50074 end
+B2 50814 begin
+B2 58238 end
+B1 66075 begin
+B2 74239 begin
+B1 76647 end
+B2 81663 end
+B1 92648 begin
+T 93974 begin expi
+B2 97664 begin
+B1 103220 end
+T 104342 end expi
+B2 105088 end
+T 106150 begin expi
+B1 119221 begin
+B2 121089 begin
+T 122566 end expi
+T 123462 begin expi
+B2 128513 end
+B1 129793 end
+B2 144514 begin
+B1 145794 begin
+B2 151938 end
+B1 156366 end
+T 160214 end expi
+T 163638 begin expi
+B2 167939 begin
+B1 172367 begin
+B2 175363 end
+B1 182939 end
+T 184582 end expi
+T 185798 begin expi
+B2 191364 begin
+T 197942 end expi
+B2 198788 end
+T 198902 begin expi
+B1 198940 begin
+B1 209512 end
+T 211638 end expi
+T 212390 begin expi
+B2 214789 begin
+B2 222213 end
+T 223478 end expi
+T 224646 begin expi
+B1 225513 begin
+B1 236085 end
+B2 238214 begin
+T 244550 end expi
+B2 245638 end
+B1 252086 begin
+T 252550 begin expi
+B2 261639 begin
+B1 262658 end
+B2 269063 end
+T 269446 end expi
+T 271590 begin expi
+B1 278659 begin
+B2 285064 begin
+T 288294 end expi
+B1 289231 end
+T 290150 begin expi
+B2 292488 end
+T 301494 end expi
+T 301510 begin expi
+T 303878 end expi
+B1 305232 begin
+B2 308489 begin
+T 311878 begin expi
+B1 315804 end
+B2 315913 end
+B1 331805 begin
+B2 331914 begin
+T 339158 end expi
+B2 339338 end
+B1 342377 end
+T 345238 begin expi
+T 349014 end expi
+T 353814 begin expi
+B2 355339 begin
+B1 358378 begin
+B2 362763 end
+B1 368950 end
+B2 378764 begin
+B1 384951 begin
+B2 386188 end
+T 394134 end expi
+B1 395523 end
+B2 402189 begin
+B2 409613 end
+B1 411524 begin
+B1 422096 end
+B2 425614 begin
+B2 433038 end
+B1 438097 begin
+B1 448669 end
+B2 449039 begin
+B2 456463 end
+stop
